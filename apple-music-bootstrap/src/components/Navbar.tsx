@@ -34,6 +34,7 @@ export default function MyNavbar() {
             <Nav.Link href="#" className="text-white">Home</Nav.Link>
             <Nav.Link href="#" className="text-white">Esplora</Nav.Link>
             <Nav.Link href="#" className="text-white">Profilo</Nav.Link>
+          
             <hr className="text-white" />
             <Nav.Link href="#" className="text-white">Impostazioni</Nav.Link>
           </Nav>
